@@ -1,4 +1,4 @@
-![Build Status](http://hanc.serveo.net/buildStatus/icon?job=test-repo)
+![status](http://hanc.serveo.net/buildStatus/icon?job=test-repo)
 
 # python_test
 This is test repo for integration with Jenkins
