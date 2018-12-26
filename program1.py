@@ -14,3 +14,7 @@ def divide_2_numbers(x, y):
 
 def multiply_2_numbers(x, y):
 	return x * y
+
+
+if __name__ == "__main__":
+	pass
